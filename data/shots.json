@@ -1,0 +1,6 @@
+[
+  { "x": 25, "y": 5, "made": true },
+  { "x": 10, "y": 20, "made": false },
+  { "x": 15, "y": 12, "made": true },
+  { "x": 28, "y": 18, "made": false }
+]
